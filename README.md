@@ -36,6 +36,14 @@ Examples of repositories:
 
 - [presentations](https://github.com/alvarofpp/presentations)
 
+## GNU Affero General Public License
+
+I use it in my packages/libraries.
+
+Examples of repositories:
+
+- [network-from-wikipedia](https://github.com/alvarofpp/network-from-wikipedia)
+
 ## MIT License
 
 I use it in my packages/libraries.
