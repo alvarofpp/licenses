@@ -1,7 +1,7 @@
 # Licenses
 
-This repository contains the license files that I use in my projects.
-Below is a short summary of where I use each license.
+This repository contains the license files that I use in my projects. Below is a
+short summary of where I use each license.
 
 ## 3-Clause BSD License
 
@@ -13,7 +13,8 @@ Examples of repositories:
 
 ## Apache License, Version 2.0
 
-I use it in applications or packages/libraries that can be used as a final product.
+I use it in applications or packages/libraries that can be used as a final
+product.
 
 Examples of repositories:
 
